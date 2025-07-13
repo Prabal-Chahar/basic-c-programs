@@ -8,6 +8,7 @@ A  Collection of Basic C Programs for Beginenrs
 - bmi_calculator.c
 - SimpleATM.c
 - SimpleContactBook.c
+- SimpleBill.c
 
 These beginner-friendly C programs cover:
 - Input/output
